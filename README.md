@@ -26,7 +26,9 @@ This site is an affiliate and owned by Usta Healthy Lifestyle Company. No duplic
 ## Site Test Link
 To View the test site, Click on this Link: https://usta-site-by-fahad.netlify.app 
 
-![usta-health-lifestyle-site-](https://github.com/Nabende2000/Usta-Healthy-Lifestyle-ReactJS-Ecommerce-Site/assets/54585561/7e833269-aa2e-41a9-8a57-aba7ecfad6c8)
-
 ## Source Code
 Contact the Developer
+
+![usta-health-lifestyle-site-](https://github.com/Nabende2000/Usta-Healthy-Lifestyle-ReactJS-Ecommerce-Site/assets/54585561/7e833269-aa2e-41a9-8a57-aba7ecfad6c8)
+
+
